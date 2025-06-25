@@ -132,6 +132,31 @@ AWS provides Points of Presence locations, which consist of Edge Locations and a
 
 ![image](https://github.com/user-attachments/assets/32360ec0-d2b3-4a86-a072-21c22c22365a)
 
+**AWS Lambda**
+
+**Create an AWS Lambda Function**
+
+![Screenshot (200)](https://github.com/user-attachments/assets/702ccdd9-8283-44a2-8e9c-04a59d7f10fe)
+
+**AWS Module 6 Knowledge Check**
+
+![image](https://github.com/user-attachments/assets/0c4a8411-849e-40ea-9aa9-cef821df5d8c)
+
+**AWS EBS**
+
+**Working With Amazon EBS: Lab 4**
+
+![Screenshot (203)](https://github.com/user-attachments/assets/b9c323e5-27c4-485d-bbcf-bc18b61f89f7)
+
+**AWS Module 7 Knowledge Check**
+
+![Screenshot (201)](https://github.com/user-attachments/assets/8e53048b-793e-4d64-b78d-122c21ee9731)
+
+
+
+
+
+
 
 
 
