@@ -118,5 +118,12 @@ AWS provides Points of Presence locations, which consist of Edge Locations and a
 
 ![image](https://github.com/user-attachments/assets/f1a7d3c2-08b5-44b5-abaf-a176fd922fcd)
 
- 
+**AWS Module 4 Knowledge Check**
+
+![image](https://github.com/user-attachments/assets/4fcaf943-6c38-497d-bb98-e3b4d63ea693)
+
+**Amazon VPC**
+**Build Your VPC: Lab 2:**
+
+
 
